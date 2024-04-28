@@ -233,7 +233,7 @@ class _CalenderViewState extends State<CalenderView> {
                             fontWeight: FontWeight.bold),
                       ),
                       Text(
-                        "\$24.98",
+                        "\₹24.98",
                         style: TextStyle(
                             color: TColor.white,
                             fontSize: 20,
